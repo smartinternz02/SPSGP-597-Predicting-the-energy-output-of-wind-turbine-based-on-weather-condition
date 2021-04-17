@@ -1,0 +1,4 @@
+This file contains the link of the Flask folder.
+Please go to the link given below and download the zip folder.
+Extract the folder and put it in the project folder.
+Folder link : https://drive.google.com/file/d/1uadmRdiKrloTReKGm4N5HuntXVuqPrKs/view?usp=sharing
